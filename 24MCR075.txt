@@ -1,7 +1,9 @@
-Name : POOJA
+Name     :  POOJA
 
-Reg.No : 24MCR075
+Reg No  :  24MCR075
 
-Dept : MCA
+Dept       :  MCA
 
-Fav Topic : Java
+Fav         :  Java
+
+Mobile Model : Vivo Y21
